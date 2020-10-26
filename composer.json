@@ -1,0 +1,16 @@
+{
+    "name": "bestwine/bestwine2",
+    "description": "This is bestwine extended theme.",
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "license": [
+      "OSL-3.0",
+      "AFL-3.0"
+    ],
+    "require": {
+      "php": "~7.3.0||~7.4.0"
+    },
+    "autoload": {
+      "files": [ "registration.php" ]
+    }
+  }
